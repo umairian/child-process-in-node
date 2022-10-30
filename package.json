@@ -1,0 +1,11 @@
+{
+  "name": "child-process-in-node",
+  "version": "1.0.0",
+  "description": "Example of child process in Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umair Syed",
+  "license": "ISC"
+}
